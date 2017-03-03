@@ -1,5 +1,5 @@
 # Python - Head First Programming
-
+## Chapter 1
 ```py
 print("Welcome!")
 g = input("Guess the number: ")
@@ -35,3 +35,29 @@ Number entered -> Message to display
 5 -> Correct
 7 -> value is more
 8 -> value is more
+
+---
+
+Programming Tools
+* Programs are created from code statements:
+    - commands do things.
+    - branches decide things.
+    - loops repeat things.
+* Conditionals help you decide if 
+    - something is True or False.
+* Assignment sets a name to a value.
+* A named value is stored in a "variable".
+
+Python Tools
+* if/else branches
+* while loops
+* = assignment operator
+* == equality operator
+* != inequality operator
+* > greater than operator
+* print() display a message on screen
+* input() gets and returns user input
+* int() converts characters to numbers
+* randint() produces a random number
+
+book-37
